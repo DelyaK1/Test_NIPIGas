@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{CC5E3018-5FE2-43C0-AEE7-91A1BC4BD644}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOM_Extractor", "NIPIGAS_BomExtractor\BOM_Extractor.csproj", "{2C53DFB2-5A1E-4C33-BB1F-FDB73661B258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5E3018-5FE2-43C0-AEE7-91A1BC4BD644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5E3018-5FE2-43C0-AEE7-91A1BC4BD644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5E3018-5FE2-43C0-AEE7-91A1BC4BD644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5E3018-5FE2-43C0-AEE7-91A1BC4BD644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C53DFB2-5A1E-4C33-BB1F-FDB73661B258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C53DFB2-5A1E-4C33-BB1F-FDB73661B258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C53DFB2-5A1E-4C33-BB1F-FDB73661B258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C53DFB2-5A1E-4C33-BB1F-FDB73661B258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A1A44B1-5D19-40D9-AD7F-51BCF651680C}
+	EndGlobalSection
+EndGlobal
